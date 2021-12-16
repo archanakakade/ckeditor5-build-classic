@@ -96,6 +96,7 @@
     }
   },
   "dependencies": {
-    "@ckeditor/ckeditor5-mention": "^31.1.0"
+    "@ckeditor/ckeditor5-mention": "^31.1.0",
+    "@ckeditor/ckeditor5-upload": "^31.1.0"
   }
 }
